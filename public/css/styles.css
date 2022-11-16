@@ -1,3 +1,13 @@
+h1 {
+  text-align: center;
+  color: beige;
+  font: 800;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bolder;
+}
 
+body {
+  background-color: rgb(52, 4, 52);
+}
 
 /*# sourceMappingURL=styles.css.map */
