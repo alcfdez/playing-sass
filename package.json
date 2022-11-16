@@ -1,0 +1,26 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "This is a repository created to practice sass and test CSS effects!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "npx sass --watch src/sass/style.scss:public/css/styles.css"
+
+  },
+ 
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alcfdez/playing-sass.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alcfdez/playing-sass/issues"
+  },
+  "homepage": "https://github.com/alcfdez/playing-sass#readme",
+  "dependencies": {
+    "sass": "^1.56.1"
+  }
+}
